@@ -1,0 +1,3 @@
+Devido aos termos do PMPAS, os áudios de baleias não puderam ser divulgados. Os arquivos 1.wav ao 10.wav pertencem ao ETAS e já estão neste GitHub. Do 11 ao 20 eram baleias selecionadas que não puderam ser carregados.
+
+Arquivos meramente ilustrativos para visualizar o trato do código.
